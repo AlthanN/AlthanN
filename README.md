@@ -3,8 +3,6 @@
 # 💫 About Me:
 I am an incoming junior studying Computer Science at UMass Amherst, passionate about AI/ML and Full-Stack Development
 
-# 🌱 I’m currently learning AI/ML through AI4LL Ignite
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/althan-nguyen/)
 
