@@ -21,11 +21,6 @@ Frameworks & Tools:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-
-## 🔥 Highlighted Projects:
-- **[Moodscape](https://devpost.com/software/moodscape-58u7vz)** – Full-stack music analysis app with three.js world modeling
-- **[Portfolio Website](https://althannguyen.vercel.app)** – Personal Portfolio
-
 ⚡ Fun fact: 
 I enjoy playing tennis, pickleball, spikeball, rock climbing, and playing Minecraft!
 
