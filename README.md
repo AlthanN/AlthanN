@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 Althan Nguyen</h1>
 
-<!--
-**AlthanN/AlthanN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+I am an incoming junior studying Computer Science at UMass Amherst, passionate about AI/ML and Full-Stack Development
 
-Here are some ideas to get you started:
+# 🌱 I’m currently learning AI/ML through AI4LL Ignite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlthanN/)
+
+
+# 💻 Tech Stack:
+Languages:
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+Frameworks & Tools:
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
+
+
+## 🔥 Highlighted Projects:
+- **[Moodscape](https://devpost.com/software/moodscape-58u7vz)** – Full-stack music analysis app with three.js world modeling
+- **[Portfolio Website](althannguyen.vercel.app)** – Personal Portfolio
+
+⚡ Fun fact: 
+I enjoy playing tennis, pickleball, spikeball, rock climbing, and playing Minecraft!
+
+
