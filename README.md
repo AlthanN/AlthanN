@@ -6,7 +6,7 @@ I am an incoming junior studying Computer Science at UMass Amherst, passionate a
 # 🌱 I’m currently learning AI/ML through AI4LL Ignite
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlthanN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/althan-nguyen/)
 
 
 # 💻 Tech Stack:
