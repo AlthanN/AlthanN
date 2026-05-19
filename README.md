@@ -24,7 +24,7 @@ Frameworks & Tools:
 
 ## 🔥 Highlighted Projects:
 - **[Moodscape](https://devpost.com/software/moodscape-58u7vz)** – Full-stack music analysis app with three.js world modeling
-- **[Portfolio Website](althannguyen.vercel.app)** – Personal Portfolio
+- **[Portfolio Website](https://althannguyen.vercel.app)** – Personal Portfolio
 
 ⚡ Fun fact: 
 I enjoy playing tennis, pickleball, spikeball, rock climbing, and playing Minecraft!
